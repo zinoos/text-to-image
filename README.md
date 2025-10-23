@@ -17,6 +17,7 @@ The app features a clean UI with modern styling and smooth interactions.
 ✅ Simple web interface — type, click, and view  
 ✅ Automatically saves and displays the last generated image  
 ✅ Works on both **CPU** and **GPU (CUDA)**  
+❌ No Filter
 
 
 
