@@ -1,9 +1,9 @@
 # 🎨 Text-to-Image Generator  
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)  
-![Flask](https://img.shields.io/badge/Flask-Web_Framework-black?logo=flask)  
-![Diffusers](https://img.shields.io/badge/Diffusers-Stable_Diffusion-orange?logo=huggingface)  
-![License](https://img.shields.io/badge/License-MIT-green)  
+[![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://www.python.org/)  
+[![Flask](https://img.shields.io/badge/Flask-Web_Framework-black?logo=flask)](https://flask.palletsprojects.com/)  
+[![Diffusers](https://img.shields.io/badge/Diffusers-Stable_Diffusion-orange?logo=huggingface)](https://huggingface.co/docs/diffusers/index)  
+[![License](https://img.shields.io/badge/License-MIT-green)](https://github.com/zinoos/text-to-image-generator/blob/main/LICENSE)  
 
 A simple and elegant **Flask web app** that lets you generate images from text prompts using the **SDXL Turbo** model from Stability AI.  
 The app features a clean UI with modern styling and smooth interactions.  
@@ -18,15 +18,7 @@ The app features a clean UI with modern styling and smooth interactions.
 ✅ Automatically saves and displays the last generated image  
 ✅ Works on both **CPU** and **GPU (CUDA)**  
 
----
 
-## 🖼️ Preview
-
-| Home Page | Generated Image |
-|------------|----------------|
-| ![UI](https://img.shields.io/badge/UI-Dark_Theme-purple) | ![Output](https://img.shields.io/badge/Output-SDXL_Turbo-orange) |
-
----
 
 ## ⚙️ Installation
 
